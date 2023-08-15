@@ -14,7 +14,7 @@ This is a Flask web application that scrapes job listings from LinkedIn using Be
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/linkedin-job-scraper.git
+   git clone https://github.com/veeqtoh/linkedin-jobs-scraper.git
 
 2. Install the required dependencies:
    ```sh
@@ -49,7 +49,7 @@ Thank you for considering contributing to the LinkedIn Job Scraper Flask App! Wh
 2. Clone the forked repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/linkedin-job-scraper.git
+   git clone https://github.com/veeqtoh/linkedin-jobs-scraper.git
 
 3. Create a new branch for your changes:
 
@@ -79,11 +79,11 @@ Please note that this project follows the Code of Conduct. By participating, you
 If you encounter any issues, have questions, or want to discuss improvements, feel free to create an issue. Be sure to provide as much detail as possible.
 
 ## Contact
-If you have any questions or need further assistance, you can contact the project maintainers via [email] (mailto:victorjohnukam@gmail.) or social media.
+If you have any questions or need further assistance, you can contact the project maintainers via [email](mailto:victorjohnukam@gmail.com) or social media.
 
 ## Notes
 * This app is for exploratory and research purposes only. Always follow LinkedIn's terms of use and be respectful of the website's policies when scraping.
 * Web scraping can be fragile and may break if the website's structure changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
