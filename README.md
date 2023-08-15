@@ -79,7 +79,7 @@ Please note that this project follows the Code of Conduct. By participating, you
 If you encounter any issues, have questions, or want to discuss improvements, feel free to create an issue. Be sure to provide as much detail as possible.
 
 ## Contact
-If you have any questions or need further assistance, you can contact the project maintainers via email (mailto:victorjohnukam@gmail.) or social media.
+If you have any questions or need further assistance, you can contact the project maintainers via [email] (mailto:victorjohnukam@gmail.) or social media.
 
 ## Notes
 * This app is for exploratory and research purposes only. Always follow LinkedIn's terms of use and be respectful of the website's policies when scraping.
