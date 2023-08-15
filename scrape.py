@@ -164,7 +164,3 @@ def create_job_csv(country_links: dict, country: str):
 if __name__ == '__main__':
     for country in links:
         create_job_csv(links[country], country)
-
-if __name__ == '__main__':
-    for country in links:
-        create_job_csv(links[country], country)
