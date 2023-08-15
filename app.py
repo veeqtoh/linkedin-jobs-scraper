@@ -1,5 +1,5 @@
 from flask import Flask
-from scrape2 import links, create_job_csv
+from scrape import links, create_job_csv
 
 app = Flask(__name__)
 
