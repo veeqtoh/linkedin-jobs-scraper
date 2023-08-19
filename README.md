@@ -49,14 +49,14 @@ Thank you for considering contributing to the LinkedIn Job Scraper Flask App! Wh
 2. Clone the forked repository to your local machine:
 
    ```sh
-   git clone https://github.com/veeqtoh/linkedin-jobs-scraper.git
+   git clone https://github.com/your-username/linkedin-jobs-scraper.git
 
 3. Create a new branch for your changes:
 
    ```sh
    git checkout -b feature/new-feature
 
-4. Make your changes and test the app to ensure everything is working as expected. Commit your changes:
+4. Make your changes and test the app to ensure everything is working as expected and maintaining coding standards. Commit your changes:
 
    ```sh
    git commit -m "Add new feature"
